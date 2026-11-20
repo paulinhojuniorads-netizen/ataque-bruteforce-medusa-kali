@@ -1,6 +1,6 @@
 # 🛡️ Ataque Brute Force de Senhas com Medusa e Kali Linux[cite: 1, 2]
 
-Este repositório documenta o desafio prático realizado durante o **Bootcamp Santander Cibersegurança**, focado na compreensão, execução e análise de ataques de força bruta (*Brute Force*) em um ambiente controlado de laboratório[cite: 1, 2].
+Este repositório documenta o desafio prático realizado durante o **Bootcamp Santander Cibersegurança**, focado na compreensão, execução e análise de ataques de força bruta (*Brute Force*) em um ambiente controlado de laboratório.
 
 ---
 
